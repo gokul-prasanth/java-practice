@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * @author Gokul
+ * 
+ * Find the number of occurrences of vowel in a text.
+ 
+ */
 public class VowelOccurances {
 
 	public static void main(String[] args) {
